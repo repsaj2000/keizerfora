@@ -113,3 +113,8 @@ footer {
 	min-height:376px;
 	overflow: hidden;
 }
+
+.image-responsive {
+	width:100%;	
+}
+}
