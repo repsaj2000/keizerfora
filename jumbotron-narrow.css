@@ -97,6 +97,6 @@ body {
 	width: 100%;
 }
 
-.row featurette {
-	margin-left:14px;
+.col-md-7 {
+	margin-left:15px;
 }
