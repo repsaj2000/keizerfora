@@ -108,3 +108,8 @@ footer {
 .readable {
 	font-size:1.2em;
 }
+
+.carousel-inner > .row .featurette > img { 
+	width:530px;
+	height:376px;
+}
