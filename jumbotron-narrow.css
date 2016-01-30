@@ -104,3 +104,7 @@ footer {
 	margin-top:-10px;
 	margin-bottom:-5px;
 }
+
+.col-md-7 p {
+	font-height:15px;
+}
