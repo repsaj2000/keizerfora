@@ -96,6 +96,7 @@ footer {
 .col-lg-4 {
 	max-width: none;
 	margin-right: 20px;
+	margin-left:-5px;
 }
 
 .row {
@@ -134,7 +135,7 @@ footer {
 
 @media screen and (max-width: 768px) {
 .mbl{
-margin-left :-22pixel;
+margin-left :-22px;
 }
 }
 /*
