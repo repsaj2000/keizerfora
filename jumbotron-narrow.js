@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    if($(document).width() > 768) {
+    if($(document).width() < 768) {
         $("#body").addClass("container");
         $("#body").removeClass("limit400");
     }else{
