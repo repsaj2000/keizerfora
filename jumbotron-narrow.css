@@ -123,9 +123,6 @@ footer {
 	margin-right:15px;
 	padding-left:10px;
 	padding-right:10px;
-	webkit-border-radius: 5px 5px 5px 5px; 
-      moz-border-radius: 5px 5px 5px 5px;
-      o-border-radius: 5px 5px 5px 5px;
-      border-radius: 5px 5px 5px 5px;
+	border-radius: 15px;
 }
 
