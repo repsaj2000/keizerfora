@@ -11,3 +11,13 @@ $(document).ready(function() {
         $('#2cool').removeClass('container');
     }
 })
+
+$(document).ready(function(){
+    if($(document).width() < 768) {
+        $('.col-md-7').css("margin-left", "-3px");
+    }else{
+        $('.col-md-7').css("margin-left", "15px");
+    };
+    
+    
+})
