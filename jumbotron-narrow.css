@@ -130,6 +130,17 @@ footer {
 
 .mbl {
 	margin-left:50px;
+} 
+
+@media (max-width:768px){
+        .mbl{
+        margin-left:none;
+        }
+  }
+
+/*
+#mobile-mar {
+	margin-left:50px;
 }
 
 /*
